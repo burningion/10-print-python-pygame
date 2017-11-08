@@ -1,5 +1,5 @@
-# 10 Print in Python 3 with Pygame
-Re-creating 10 Print in Python 3 and Pygame
+# 10 PRINT in Python 3 with Pygame
+Re-creating 10 PRINT in Python 3 and Pygame
 
 Inspired by the book 10 PRINT.
 
